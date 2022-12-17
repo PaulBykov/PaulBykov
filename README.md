@@ -9,5 +9,5 @@
   </h1>
 </div>
 
-### :man_technologist: About Me :
+### 🇳🇪: About Me :
   
