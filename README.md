@@ -9,5 +9,5 @@
   </h1>
 </div>
 
-### "nigger: About Me :
+### :man_technologist: About Me :
   
