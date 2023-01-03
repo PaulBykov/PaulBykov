@@ -11,8 +11,8 @@
 
 ### :man_technologist: About Me :
   I am a studen for BSTU (Belarus);
-  I keep learning C++ just 4 fun;
-  In the future i want to become a Data Scientist;
+  Just learning the C++ and other things.
+  In the future i want to become a C++ devolopert;
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
