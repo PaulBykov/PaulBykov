@@ -12,7 +12,7 @@
 ### :man_technologist: About Me :
   I am a studen for BSTU (Belarus);
   Just learning the C++ and other things.
-  In the future i want to become a C++ devolopert;
+  In the future i want to become a C++ developer;
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
