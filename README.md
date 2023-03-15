@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/kiyotaka-ayanokoji-you-zitsu-anime-stare-look-gif-17935235" width=400px/>
+  <img src="https://tenor.com/bnpV9.gif" width=400px/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=PaulBykov&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -29,4 +29,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="vs" alt="vs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
-
