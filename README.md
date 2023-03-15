@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/duNowzaVje6Di3hnOu/giphy.gif" width=400px/>
+  <iframe src="https://giphy.com/embed/duNowzaVje6Di3hnOu" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tv2norge-dance-celebration-birthday-duNowzaVje6Di3hnOu"></a></p>
   <br>
   <img src="https://komarev.com/ghpvc/?username=PaulBykov&style=flat-square&color=blue" alt=""/>
   <h1>
