@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <div class="tenor-gif-embed" data-postid="17935235" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/kiyotaka-ayanokoji-you-zitsu-anime-stare-look-gif-17935235">Kiyotaka Ayanokoji You Zitsu GIF</a>from <a href="https://tenor.com/search/kiyotaka+ayanokoji-gifs">Kiyotaka Ayanokoji GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/ru/view/kiyotaka-ayanokoji-you-zitsu-anime-stare-look-gif-17935235" width=400px/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=PaulBykov&style=flat-square&color=blue" alt=""/>
   <h1>
