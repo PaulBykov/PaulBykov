@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/duNowzaVje6Di3hnOu" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tv2norge-dance-celebration-birthday-duNowzaVje6Di3hnOu"></a></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVlOGZmMDQzODllZjc1MzQ3NWVkNzczYTI4MmVkMDRlMmExMjBkMSZjdD1n/duNowzaVje6Di3hnOu/giphy-downsized-large.gif" width=400px/> 
   <br>
   <img src="https://komarev.com/ghpvc/?username=PaulBykov&style=flat-square&color=blue" alt=""/>
   <h1>
