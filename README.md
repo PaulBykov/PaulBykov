@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://tenor.com/bnpV9.gif" width=400px/>
+  <img src="https://media.giphy.com/media/duNowzaVje6Di3hnOu/giphy.gif" width=400px/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=PaulBykov&style=flat-square&color=blue" alt=""/>
   <h1>
