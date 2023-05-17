@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/7mSj4FRRZP0AAAAC/kiyotaka-ayanokoji-eyes.gif" width="300px">
+  <img src="https://media.tenor.com/7mSj4FRRZP0AAAAd/kiyotaka-ayanokoji-eyes.gif" width="400px">
   <br>
   <img src="https://komarev.com/ghpvc/?username=PaulBykov&style=flat-square&color=blue" alt=""/>
   <h1>
