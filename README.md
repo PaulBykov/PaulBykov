@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/x-QEh5boeIUAAAAC/sad-eyes.gif" width="400px">
+  <img src="https://media.tenor.com/x-QEh5boeIUAAAAC/sad-eyes.gif" width="450px">
   <br>
   <img src="https://komarev.com/ghpvc/?username=PaulBykov&style=flat-square&color=blue" alt=""/>
   <h1>
@@ -10,7 +10,7 @@
 </div>
 
 ### :man_technologist: About Me :
-  I am a student for BSTU (Belarus);
+  I am a student for BSTU (Belarus); <br>
   C++ forever in my heart, but forced to become a stupid front-end dev.
 
 <div>
