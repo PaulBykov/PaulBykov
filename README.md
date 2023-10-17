@@ -1,15 +1,14 @@
 
-<div id="header" align="center">
+<div id="header">
   <img src="https://komarev.com/ghpvc/?username=PaulBykov&style=flat-square&color=blue" alt=""/>
   <h1>
-    Bonjour 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Soon...
   </h1>
 </div>
 
-### :man_technologist: About Me :
-  I am a student for BSTU (Belarus); <br>
-  C++ forever in my heart, but forced to become a stupid front-end dev.
+### :man_technologist: About Me (FAWC):
+  Wiping out second year at BSTU; <br>
+  C++ will always be a part of my heart, even though I was forced to become a stupid front-end developer.
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
