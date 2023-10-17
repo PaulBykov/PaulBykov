@@ -1,7 +1,5 @@
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/x-QEh5boeIUAAAAC/sad-eyes.gif" width="475px">
-  <br>
   <img src="https://komarev.com/ghpvc/?username=PaulBykov&style=flat-square&color=blue" alt=""/>
   <h1>
     Bonjour 
