@@ -7,7 +7,7 @@
 </div>
 
 ### :man_technologist: About Me (FAWC):
-  Wiping out second year at BSTU; <br>
+  Chilling on second year at BSTU; <br>
   C++ will always be a part of my heart, even though I was forced to become a stupid front-end developer.
 
 <div>
