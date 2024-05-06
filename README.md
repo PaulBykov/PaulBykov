@@ -22,3 +22,14 @@
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="PYTHON" width="40" height="40"/>&nbsp;
 </div>
+
+<div>
+  **Some react proj:**
+    <a href="https://github.com/PaulBykov/barbershop_react"> barbershop </a>
+    <a href="https://github.com/PaulBykov/LABS2kurs/tree/master/sem4/JS2/11-13"> movieCatalog (Api) </a>
+    <a href="https://github.com/PaulBykov/LABS2kurs/tree/master/sem4/JS2/9-10"> sudoku </a>
+**Javascript stuff**
+  <a href="https://github.com/PaulBykov/SnakeGame"> Snakegame </a>
+  <a href="https://github.com/PaulBykov/SnakeGame"> Minesweeper </a>
+**See other code in repositories**
+</div>
