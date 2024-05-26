@@ -27,9 +27,9 @@
   <b> Some react proj: </b> <br>
     <a href="https://github.com/PaulBykov/barbershop_react"> Barbershop </a> <br>
     <a href="https://github.com/PaulBykov/LABS2kurs/tree/master/sem4/JS2/11-13"> MovieCatalog (Api) </a> <br>
-    <a href="https://github.com/PaulBykov/LABS2kurs/tree/master/sem4/JS2/9-10"> Sudoku </a> <br> <br>
+    <a href="https://github.com/PaulBykov/sudoku"> Sudoku (redux) </a> <br> <br>
 <b> Javascript stuff </b> <br>
   <a href="https://github.com/PaulBykov/SnakeGame"> Snakegame </a> <br>
-  <a href="https://github.com/PaulBykov/SnakeGame"> Minesweeper </a> <br>
+  <a href="https://github.com/PaulBykov/MineSweeper"> Minesweeper </a> <br>
 <b> See other code in repositories** </b>
 </div>
