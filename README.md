@@ -21,6 +21,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="REDUX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="NEXT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo512.png" title="Zustand" alt="Zustand" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo512.png" title="Zustand" alt="Zustand" width="40" height="40"/>&nbsp;
 </div>
 
