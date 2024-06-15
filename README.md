@@ -19,17 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="REACT" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="REDUX" width="40" height="40"/>&nbsp;
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="PYTHON" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next" alt="NEXT" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo512.png" title="Zustand" alt="Zustand" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo512.png" title="Zustand" alt="Zustand" width="40" height="40"/>&nbsp;
 </div>
 
-<div>
-  <b> Some react proj: </b> <br>
-    <a href="https://github.com/PaulBykov/barbershop_react"> Barbershop </a> <br>
-    <a href="https://github.com/PaulBykov/LABS2kurs/tree/master/sem4/JS2/11-13"> MovieCatalog (Api) </a> <br>
-    <a href="https://github.com/PaulBykov/sudoku"> Sudoku (redux) </a> <br> <br>
-<b> Javascript stuff </b> <br>
-  <a href="https://github.com/PaulBykov/SnakeGame"> Snakegame </a> <br>
-  <a href="https://github.com/PaulBykov/MineSweeper"> Minesweeper </a> <br>
-<b> See other code in repositories** </b>
-</div>
